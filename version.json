@@ -1,4 +1,5 @@
 {
-  "version": "4.8",
-  "url": "https://raw.githubusercontent.com/phongdmx/dmxphong/main/DMX4.6.bin"
+  "version": "4.7",
+  "url": "https://raw.githubusercontent.com/phongdmx/dmxphong/main/DMX4..bin",
+  "note": "- Nâng cấp lên 16 ô cảnh LED ngoài Trang chủ\n- Bổ sung bảng theo dõi CPU, RAM, Flash thời gian thực\n- Tối ưu tốc độ phản hồi WebSocket mượt hơn"
 }

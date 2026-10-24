@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.8",
   "url": "https://raw.githubusercontent.com/phongdmx/dmxphong/main/DMX4.6.bin",
   "notes": "- Tích hợp tính năng cập nhật trực tuyến kèm Nhật ký thay đổi (Changelog)\n- Thêm tính năng Góp ý sản phẩm trực tiếp về Google Sheets\n- Tối ưu hóa hệ thống DMX và bộ nhớ đệm"
 }

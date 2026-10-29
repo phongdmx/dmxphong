@@ -1,5 +1,5 @@
 {
-  "version": "5.1",
+  "version": "5.2",
   "url": "https://raw.githubusercontent.com/phongdmx/dmxphong/main/DMX4.6.bin",
-  "notes": "- ver5.0 : Tích hợp tính năng cập nhật trực tuyến ( có hiện ghi chú tính năng hoặc thay đổi ) \n- Thêm tính năng Góp ý sản phẩm trực tiếp về cho người bán\n- Tối ưu hóa hệ thống DMX , bộ nhớ đệm và bảo mật\n- Bổ sung tính năng RDM ( Gói 3 ), cho phép tìm kiếm và set địa chỉ đèn từ xa\n- Nâng từ 12 cảnh led lên 16 cảnh led \n- Ver5.1 : Bổ sung thêm led vào gói 2 "
+  "notes": "- ver5.0 : Tích hợp tính năng cập nhật trực tuyến ( có hiện ghi chú tính năng hoặc thay đổi ) \n- Thêm tính năng Góp ý sản phẩm trực tiếp về cho người bán\n- Tối ưu hóa hệ thống DMX , bộ nhớ đệm và bảo mật\n- Bổ sung tính năng RDM ( Gói 3 ), cho phép tìm kiếm và set địa chỉ đèn từ xa\n- Nâng từ 12 cảnh led lên 16 cảnh led \n- Ver5.1 : Bổ sung thêm led vào gói 2 \n- Ver5.2 : fix cho chức năng RDM hoạt động ổn định  "
 }

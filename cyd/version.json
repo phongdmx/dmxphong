@@ -1,8 +1,8 @@
 
 {
-  "version": "1.8",
+  "version": "2.0",
   "url": "https://raw.githubusercontent.com/phongdmx/dmxphong/main/cyd/dmx_cyd.bin",
-  "notes": "Cập nhật firmware CYD",
+  "notes": "ver1.9 : đang là phiên bản mới nhất , hãy check cập nhâp thường xuyên nhé",
   "board": "cyd-2432s028",
   "md5": ""
 }

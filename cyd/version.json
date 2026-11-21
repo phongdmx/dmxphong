@@ -1,8 +1,8 @@
 
 {
-  "version": "2.0",
+  "version": "2.1",
   "url": "https://raw.githubusercontent.com/phongdmx/dmxphong/main/cyd/dmx_cyd.bin",
-  "notes": "ver1.9 : đang là phiên bản mới nhất , hãy check cập nhâp thường xuyên nhé",
+  "notes": "phiên bản 2.1 mới : cho phép tùy chỉnh riêng góc chiếu của riêng từng beam , hãy cập nhập để có thêm tính năng này",
   "board": "cyd-2432s028",
   "md5": ""
 }

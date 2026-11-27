@@ -1,8 +1,8 @@
 
 {
-  "version": "2.1",
+  "version": "2.3",
   "url": "https://raw.githubusercontent.com/phongdmx/dmxphong/main/cyd/dmx_cyd.bin",
-  "notes": "phiên bản 2.1 mới : cho phép tùy chỉnh riêng góc chiếu của riêng từng beam , hãy cập nhập để có thêm tính năng này \n- ver2.2 sắp có : có thể dùng điện thoại/ laptop để chạy song song điều chỉnh thiết bị ",
+  "notes": "phiên bản 2.1 mới : cho phép tùy chỉnh riêng góc chiếu của riêng từng beam , hãy cập nhập để có thêm tính năng này \n- ver2.2 : có thể dùng điện thoại/ laptop để chạy song song điều chỉnh thiết bị ",
   "board": "cyd-2432s028",
   "md5": ""
 }
